@@ -74,3 +74,32 @@ Serving you the game you want.
 Those annoying ads
 
 No full-screen ads stopping you from the gameplay.
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![rami-al-zayat-w33-zg-dNL4-unsplash](https://user-images.githubusercontent.com/103013960/161729578-1e284b31-40ab-453d-8df3-92e2b25aa2de.jpg)
+
+<p align="center"><div align="center">
+
+One Installation
+
+Install only once, no need to install multiple games.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="right"> 
+
+[Open the app](https://google.com)
+<img align="left" width="150" alt="Screen Shot 2022-04-05 at 12 50 47 PM" src="https://user-images.githubusercontent.com/103013960/161684663-900b7e3f-9cd8-427f-a7c8-b613d04125f3.png">
