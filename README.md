@@ -1,5 +1,9 @@
-<div align="center"><img align="center" width="150" alt="Screen Shot 2022-04-05 at 12 50 47 PM" src="https://user-images.githubusercontent.com/103013960/161684663-900b7e3f-9cd8-427f-a7c8-b613d04125f3.png">
+<div align="right"> 
 
+[Open the app](https://google.com) 
+<img align="left" width="150" alt="Screen Shot 2022-04-05 at 12 50 47 PM" src="https://user-images.githubusercontent.com/103013960/161684663-900b7e3f-9cd8-427f-a7c8-b613d04125f3.png">
+  
+<br> 
 <br>
 <br>
 
@@ -19,7 +23,9 @@
   What Would It Look Like If The Game App Store and TikTok Merged<h1>
 
 <br>
-<br>
+
+&#8595;
+
 <br>
 <br>
 <br>
@@ -28,8 +34,22 @@
 <p align="left"><strong>
 <br>
 <br>
-<br>
-  Introducing Game+
+Introducing Game+
+  
+<p align="left"><strong><h5><div align="left">
+  Social Mobile Gaming Platform<h5>
+  
 <img align="left" src="https://user-images.githubusercontent.com/103013960/161685397-84cfe864-7ff0-45b2-b6f8-bac4135c7e43.png" width="200" height="200">
-<img align="center" src="https://user-images.githubusercontent.com/103013960/161685437-88181d7a-996f-4f9c-ae8c-84aca6ed8512.png" width="200" height="200">
+  <img align="center" src="https://user-images.githubusercontent.com/103013960/161685437-88181d7a-996f-4f9c-ae8c-84aca6ed8512.png" width="200" height="200">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  
+https://user-images.githubusercontent.com/103013960/161721289-a1d9989d-f2d3-4f2c-b43a-b60ee4350615.mp4
