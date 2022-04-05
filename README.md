@@ -53,3 +53,24 @@ Introducing Game+
 <p align="center">
   
 https://user-images.githubusercontent.com/103013960/161721289-a1d9989d-f2d3-4f2c-b43a-b60ee4350615.mp4
+
+  
+<p align="center"><div align="center">
+Recommend for you
+
+Serving you the game you want.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+![using-phone-extremely-shocked-caucasian-man-s-portrait-gradient-studio-background-neon-light-beautiful-male-model-with-hipster-style-concept-human-emotions-facial-expression-sales-ad](https://user-images.githubusercontent.com/103013960/161724062-b38e6ce4-5f0c-489b-948b-6e7cbc555bdf.jpg)
+
+<p align="center"><div align="center">
+Those annoying ads
+
+No full-screen ads stopping you from the gameplay.
