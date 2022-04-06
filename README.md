@@ -31,13 +31,13 @@
 <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/103013960/161684961-42a205f9-f28e-4970-bd72-9eae28306a9c.png" width="300" height="600">
-<p align="left"><strong>
+<p align="left">
 <br>
 <br>
 Introducing Game+
   
 <p align="left"><strong><h5><div align="left">
-  Social Mobile Gaming Platform<h5>
+Social Mobile Gaming Platform<h5>
   
 <img align="left" src="https://user-images.githubusercontent.com/103013960/161685397-84cfe864-7ff0-45b2-b6f8-bac4135c7e43.png" width="200" height="200">
   <img align="center" src="https://user-images.githubusercontent.com/103013960/161685437-88181d7a-996f-4f9c-ae8c-84aca6ed8512.png" width="200" height="200">
