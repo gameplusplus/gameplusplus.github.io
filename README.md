@@ -20,7 +20,7 @@
 <br>
 
 <p align="center"><strong><h1><div align="center">
-  What Would It Look Like If The Game App Store and TikTok Merged<h1>
+  What would it look like if the Game App Store and TikTok merged<h1>
 
 <br>
 
@@ -67,8 +67,8 @@ Serving you the game you want.
 <br>
 <br>
 <br>
-  
-![using-phone-extremely-shocked-caucasian-man-s-portrait-gradient-studio-background-neon-light-beautiful-male-model-with-hipster-style-concept-human-emotions-facial-expression-sales-ad](https://user-images.githubusercontent.com/103013960/161724062-b38e6ce4-5f0c-489b-948b-6e7cbc555bdf.jpg)
+
+<img align="center" src="https://user-images.githubusercontent.com/103013960/161724062-b38e6ce4-5f0c-489b-948b-6e7cbc555bdf.jpg">
 
 <p align="center"><div align="center">
 Those annoying ads
@@ -83,7 +83,7 @@ No full-screen ads stopping you from the gameplay.
 <br>
 <br>
 
-![rami-al-zayat-w33-zg-dNL4-unsplash](https://user-images.githubusercontent.com/103013960/161729578-1e284b31-40ab-453d-8df3-92e2b25aa2de.jpg)
+<img align="center" src="https://user-images.githubusercontent.com/103013960/161729578-1e284b31-40ab-453d-8df3-92e2b25aa2de.jpg">
 
 <p align="center"><div align="center">
 
@@ -95,6 +95,16 @@ Install only once, no need to install multiple games.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+<img align="center" src="https://user-images.githubusercontent.com/103013960/161906439-a85f1ec7-e0d0-4b41-bb3e-edefef99de1c.png">
+
+For Game Developers and Studios
+
+No store fees, no annual fees and develop games in almost any format. 
+
 <br>
 <br>
 <br>
