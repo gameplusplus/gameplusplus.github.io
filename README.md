@@ -101,15 +101,23 @@ Install only once, no need to install multiple games.
 
 <img align="center" src="https://user-images.githubusercontent.com/103013960/161906439-a85f1ec7-e0d0-4b41-bb3e-edefef99de1c.png">
 
+<br>
+<br>
+
 For Game Developers and Studios
 
-No store fees, no annual fees and develop games in almost any format. 
+<br>
+
+No store fees, no annual fees and develop games in almost any format.
 
 <br>
 <br>
 <br>
 
 <div align="right"> 
+[Open the app](https://google.com) 
 
-[Open the app](https://google.com)
-<img align="left" width="150" alt="Screen Shot 2022-04-05 at 12 50 47 PM" src="https://user-images.githubusercontent.com/103013960/161684663-900b7e3f-9cd8-427f-a7c8-b613d04125f3.png">
+<img align="left" width="150" alt="Screen Shot 2022-04-05 at 12 50 47 PM" src="https://user-images.githubusercontent.com/103013960/161684663-900b7e3f-9cd8-427f-a7c8-b613d04125f3.png"> 
+
+<div align="center">
+Game+ All Rights Reserved with FreePik Digital Assets
