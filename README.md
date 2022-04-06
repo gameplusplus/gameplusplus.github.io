@@ -1,3 +1,5 @@
+"colors.background": "#000000"
+
 <div align="right"> 
 
 [Open the app](https://google.com) 
