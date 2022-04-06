@@ -56,9 +56,12 @@ https://user-images.githubusercontent.com/103013960/161721289-a1d9989d-f2d3-4f2c
 
   
 <p align="center"><div align="center">
-Recommend for you
 
-Serving you the game you want.
+
+
+Recommend for you
+  
+Serving you games you want. 
 
 <br>
 <br>
